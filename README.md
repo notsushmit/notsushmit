@@ -34,4 +34,4 @@ FastAPI, ChromaDB and sentence-transformers, with OCR ingestion and an automatic
 - Leading the technical team at Google Developer Groups, SRMIST
 - Looking for ML / data science internships
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=notsushmit&show_icons=true&hide_border=true&count_private=true)](https://github.com/notsushmit)
+
